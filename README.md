@@ -48,7 +48,6 @@ This is a Windows system limitation where the piper.exe processes are linked to 
 
 - Check NVDA logs for detailed synthesis timing information
 - If speech becomes slow, restart NVDA to reset the daemon pool
-- For development/debugging, see `KNOWN_ISSUES.md` for technical details
 
 ## Support
 
