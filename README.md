@@ -19,7 +19,7 @@ High-quality neural text-to-speech addon for NVDA using Piper TTS engine.
 
 ## Voice Model
 
-This addon uses the `en_us-jane-medium.onnx` voice model for high-quality English speech synthesis.
+This addon uses the `en_US-lessac-medium.onnx` voice model for high-quality English speech synthesis.
 
 ## Performance
 
